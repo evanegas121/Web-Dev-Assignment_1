@@ -15,6 +15,15 @@ margin-top: 50px;
     border: 2px solid #999;
     background: rgba(250, 208, 123, 0.6);
     margin-top: 250px;
+    padding-bottom: 1vw;
+}
+
+.about{
+    border: 2px solid #999;
+    background: rgba(250, 208, 123, 0.6);
+    margin-top: 100px;
+    width :60%;
+    padding-bottom: 1vw;
 }
 
 .summary {
